@@ -1,0 +1,5 @@
+.venv312/
+*.pkl
+*.csv
+__pycache__/
+.DS_Store

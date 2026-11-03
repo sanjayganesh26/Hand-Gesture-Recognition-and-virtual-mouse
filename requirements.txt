@@ -1,0 +1,1 @@
+pandas matplotlib numpy joblib pyautogui scikit-learn mediapipe opencv-python
